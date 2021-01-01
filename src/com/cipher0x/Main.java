@@ -6,7 +6,7 @@ import javax.swing.*;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
-        int interruptMinutes = 1;
+        int interruptMinutes = 30;
         final MakeSound speakers = new MakeSound();
         final String bellSoundFile = "/home/eric/Downloads/bell-ringing-05.wav";
 
